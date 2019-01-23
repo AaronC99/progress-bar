@@ -1,0 +1,26 @@
+.progress {
+    box-sizing: border-box;
+    height: 8px;
+    border-radius: 3px;
+    width: 100%;
+    border: 1px solid #e0e0e0;
+}
+
+.col-12 {
+    justify-content: space-around;
+    height: 17px;    
+    font-size: 17px;
+    display: flex;
+}
+
+.progress-bar {
+    height: 9px;
+    background: #009200;
+}
+
+.progress-container {
+    display: flex;
+    width: 85%;
+    justify-content: center;
+    align-items: center;
+}
